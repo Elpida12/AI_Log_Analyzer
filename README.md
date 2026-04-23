@@ -1,6 +1,6 @@
 # <p align="center"> AI Log Analyzer</p>  
 
-# Log Analyzer for AI Agent Sessions
+## Log Analyzer for AI Agent Sessions
 
 Analyze logs from AI coding agent systems using a deterministic pre-filter plus
 LLM map-reduce. All LLM-generated claims are cross-checked against a
