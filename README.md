@@ -1,4 +1,4 @@
-<p align="center">AI Log Analyzer</p># 
+<p align="center"># AI Log Analyzer</p>  
 
 # Log Analyzer for AI Agent Sessions
 
