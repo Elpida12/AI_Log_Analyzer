@@ -4,8 +4,8 @@
 
 Analyze logs from AI coding agent systems using a deterministic pre-filter plus
 LLM map-reduce. All LLM-generated claims are cross-checked against a
-deterministic fact sheet - contradicted findings are dropped. 
-Built with a strong emphasis on reducing cognitive load and minimizing hallucinations.
+deterministic fact sheet - contradicted findings are dropped.   \
+ <br> Built with a strong emphasis on reducing cognitive load and minimizing hallucinations.
 
 This was originally written for another AI coding agent system that I was working on, but designed so the log
 format and pipeline shape are configurable in one file (`config.py`).
